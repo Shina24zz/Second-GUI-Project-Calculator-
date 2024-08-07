@@ -1,5 +1,6 @@
 # Second-GUI-Project-Calculator-
-I have been trying to pick up java GUI using Java swing and I am still learnining hopefelly I dont slack off lol,I present to you The Calculator
+I have been trying to pick up java GUI using Java swing and I am still learnining hopefelly I dont slack off lol,
+I present to you The Calculator - shina24zz
 
 
 **Overview**
