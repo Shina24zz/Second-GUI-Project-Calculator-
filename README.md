@@ -7,7 +7,7 @@ I present to you The Calculator - shina24zz
 
 This project is a simple calculator application built using Java Swing. It provides basic arithmetic operations like addition, subtraction, multiplication, and division. The calculator features a graphical user interface (GUI) with buttons for numbers and operations.
 
-Features
+# Features
 Basic arithmetic operations: addition, subtraction, multiplication, and division.
 Clear (CLR) button to reset the display.
 Delete (DEL) button to remove the last digit entered.
@@ -16,7 +16,7 @@ Decimal point for floating-point operations.
 Responsive buttons with intuitive layout.
 
 
-Usage
+# Usage
 Upon running the application, a calculator window will appear with the following components:
 
 Display: A non-editable text field at the top to show input and results.
